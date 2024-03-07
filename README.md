@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Chongfeng Ling
+
 
 <!--
 **chongfengling/chongfengling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have a master's degree in scientific computing. Before that, I studied applied mathematics for my bachelor's degree.
+
+[`🏠 chongfengling.github.io`](https://chongfengling.github.io)
+[`📫 @chongfengling`](mailto:ling.chongfeng@outlook.com)
+
+### 👷 Check out what I'm currently working on
+
+### 🌱 My latest projects
