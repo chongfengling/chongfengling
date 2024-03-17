@@ -23,4 +23,11 @@ I have a master's degree in scientific computing. Before that, I studied applied
 
 ### 👷 Check out what I'm currently working on
 
+- [Gitlet](https://sp21.datastructur.es/materials/proj/proj2/proj2)
+
+
 ### 🌱 My latest projects
+
+- [Kernel Method Projects](https://github.com/chongfengling/Supervised-Learning/tree/main): Implemented Kernel Ridge Regression to predict house prices and Designed a kernel perceptron algorithm for classifying handwritten digits.
+
+- [MRI Pulse Sequence Optimization](https://github.com/chongfengling/Pulse-Sequence-Optimization): Optimized the gradient-echo sequences for 1-D objects by employing the Deep Deterministic Policy Gradient (DDPG) algorithm.
