@@ -33,6 +33,4 @@ I have a master's degree in scientific computing. Before that, I studied applied
 - [MRI Pulse Sequence Optimization](https://github.com/chongfengling/Pulse-Sequence-Optimization): Optimized the gradient-echo sequences for 1-D objects by employing the Deep Deterministic Policy Gradient (DDPG) algorithm.
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=chongfengling&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongfengling&layout=compact)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=chongfengling&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongfengling&layout=compact)
