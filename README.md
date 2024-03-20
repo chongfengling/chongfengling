@@ -33,4 +33,11 @@ I have a master's degree in scientific computing. Before that, I studied applied
 - [MRI Pulse Sequence Optimization](https://github.com/chongfengling/Pulse-Sequence-Optimization): Optimized the gradient-echo sequences for 1-D objects by employing the Deep Deterministic Policy Gradient (DDPG) algorithm.
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=chongfengling&show_icons=true&theme=transparent)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongfengling&layout=compact&hide=tex,html,javascript,css)
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chongfengling&layout=compact&langs_count=8&hide_border=true&hide=tex,html,javascript,css" alt="Chongfeng Ling's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chongfengling&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats" alt="Chongfeng Ling's Github stats" />
+</a>
+</div>
