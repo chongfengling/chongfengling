@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a master's degree in scientific computing. Before that, I studied applied mathematics for my bachelor's degree.
+I hold a Master's degree in Scientific Computing from UCL, complementing my Bachelor's degree in Applied Mathematics from XJTLU.
 
 [`🏠 chongfengling.github.io`](https://chongfengling.github.io)
 [`📫 @chongfengling`](mailto:ling.chongfeng@outlook.com)
