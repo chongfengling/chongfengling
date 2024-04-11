@@ -23,7 +23,7 @@ I hold a Master's degree in Scientific Computing from UCL, complementing my Bach
 
 ### 👷 Check out what I'm currently working on
 
-- [Gitlet](https://sp21.datastructur.es/materials/proj/proj2/proj2)
+- [Gitlet]([https://sp21.datastructur.es/materials/proj/proj2/proj2](https://github.com/chongfengling/cs61b/tree/proj2)): a version-control system that mimics some of the basic features of the popular system Git in Java.
 
 
 ### 🌱 My latest projects
