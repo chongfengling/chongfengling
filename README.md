@@ -23,15 +23,14 @@ I hold a Master's degree in Scientific Computing from UCL, complementing my Bach
 
 ### 👷 Check out what I'm currently working on
 
-- [Gitlet]([https://sp21.datastructur.es/materials/proj/proj2/proj2](https://github.com/chongfengling/cs61b/tree/proj2)): a version-control system that mimics some of the basic features of the popular system Git in Java.
+- [Gitlet](https://github.com/chongfengling/cs61b/tree/proj2/proj2) : A version-control system that mimics some of the basic features of the popular system Git in Java.
 
 
 ### 🌱 My latest projects
 
+- [Double Ended Queue](https://github.com/chongfengling/cs61b/tree/proj1/proj1): Implementations of a “Double Ended Queue” using both lists and arrays in a package plus its application.
 - [Kernel Method Projects](https://github.com/chongfengling/Supervised-Learning/tree/main): Implemented Kernel Ridge Regression to predict house prices and Designed a kernel perceptron algorithm for classifying handwritten digits.
-
 - [MRI Pulse Sequence Optimization](https://github.com/chongfengling/Pulse-Sequence-Optimization): Optimized the gradient-echo sequences for 1-D objects by employing the Deep Deterministic Policy Gradient (DDPG) algorithm.
-
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
